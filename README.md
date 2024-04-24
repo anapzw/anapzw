@@ -7,7 +7,7 @@
 </div>                                                                            
 &nbsp;
 
-Olá! 👋 Me chamo [Ana Beatriz](https://www.linkedin.com/in/ana-beatriz-lima-dev/) 😄. Sou graduada em Design pela [Universidade Ceuma](https://www.extranet.ceuma.br/hotsite/) 🏛️. Atualmente, estou aprimorando minhas habilidades em programação na [Incode Tech School](https://www.linkedin.com/school/incode-tech-school/) e focando meus estudos no desenvolvimento web, com o objetivo de me especializar em programação front-end. 🌱 Além do desenvolvimento web, também estou me aprofundando em conceitos de UX/UI Design para criar interfaces mais intutivas e centradas no usuário.
+Olá! 👋 Me chamo [Ana Beatriz](https://www.linkedin.com/in/ana-beatriz-lima-dev/) 😄. Sou graduada em Design pela [Universidade Ceuma](https://www.extranet.ceuma.br/hotsite/) 🏛️. Atualmente, estou aprimorando minhas habilidades em programação na [Incode Tech School](https://www.linkedin.com/school/incode-tech-school/) e focando meus estudos no desenvolvimento web, com o objetivo de me especializar em programação front-end. 🌱 Além do desenvolvimento web, também estou me aprofundando em conceitos de UX/UI Design para criar interfaces mais intuitivas e centradas no usuário.
 
 ## 👨‍🚀 Um pouco mais sobre mim
 - 🔭 Atualmente trabalhando com UX/UI Design.
