@@ -15,14 +15,24 @@ Olá! 👋 Me chamo [Ana Beatriz](https://www.linkedin.com/in/ana-beatriz-lima-d
 - 🖥️ Fascinada por tecnologia e design.
 - 🚀 Buscando sempre aprender cada dia mais.
 
-<div align="center">
-  <a href="https://github.com/anapzw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapzw&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapzw&layout=compact&langs_count=7&theme=outrun"/>
-</div>
-
 ##
  
 ### 🛠️ Linguagens e Ferramentas  
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,xd,ai)](https://skillicons.dev)
+
+##
+
+<details>
+  <summary><h3>:zap: GitHub Stats</h3></summary>
+  &nbsp;
+  <div align="center">
+    <a href="https://github.com/anapzw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapzw&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapzw&layout=compact&langs_count=7&theme=outrun"/>
+  </div>
+</details>
+
+
+
+
