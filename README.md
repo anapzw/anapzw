@@ -14,17 +14,12 @@ Olá! 👋 Me chamo [Ana Beatriz](https://www.linkedin.com/in/ana-beatriz-lima-d
 - ⚛️ Estudando ReactJS.
 - 🖥️ Fascinada por tecnologia e design.
 - 🚀 Buscando sempre aprender cada dia mais.
-
-##
  
-### 🛠️ Linguagens e Ferramentas  
-
+## 🛠️ Linguagens e Ferramentas  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,xd,ai)](https://skillicons.dev)
 
-##
-
 <details>
-  <summary><h3>:zap: GitHub Stats</h3></summary>
+  <summary><h2>:zap: GitHub Stats</h2></summary>
   &nbsp;
   <div align="center">
     <a href="https://github.com/anapzw">
@@ -32,7 +27,6 @@ Olá! 👋 Me chamo [Ana Beatriz](https://www.linkedin.com/in/ana-beatriz-lima-d
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapzw&layout=compact&langs_count=7&theme=outrun"/>
   </div>
 </details>
-
 
 
 
